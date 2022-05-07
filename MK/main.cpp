@@ -27,8 +27,6 @@ int main() {
 
     srand(static_cast<unsigned int>(time(NULL)));
 
-//    cout << "Enter N \n";
-//    cin >> n;
     n = 100;
 
     h = (B - A) / n;
